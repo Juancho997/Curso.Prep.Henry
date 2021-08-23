@@ -1,0 +1,5 @@
+Variables: Es una herramienta que permite el almacenamiento de un valor para ser utilizado en otro momento. Para ello, se debe utilizar la keyword "var" seguida de un espacio y el nombre de la variable. 
+Strings: son pedazos de código, bloques de texto que deben ser siempre encerrados entre commillas para ser definidos como tal.
+Función: Es uno de los statements de JavaScript, que al ser invocados le indican al intérprete la realizaciçon de una tarea o serie de tareas de manera casi automática. Son altamente configurables a través del uso de argumentos y su anidamiento dentro de la función. En ellos, podemos usar keywords como "return", que nos permite arrojar o hacer salir el resultado de una operación por fuera de la función. Es decir, permite a la función devolver un elementon que solo existía dentro de ella.
+Declaración "if": Es un elemento/palabra clave que sirve para controlar el flujo dentro de una función. Permite detener o continuar la operación y arrojar un valor u otro según se verifique si algo es -true-.
+Valores booleanos: Sirven de base al sistema binario, se originan en la lógica de Boole. Permiten definir una variable como -true- o -false-.
