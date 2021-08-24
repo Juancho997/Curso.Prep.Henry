@@ -1,0 +1,19 @@
+# Homework: Javascript II
+
+Bucle for: Es una de las expresiones de bucle incorporadas a Javascript, que permite la ejecución de una tarea o serie de ella de mmanera repetida en el tiempo, hasta que se cumpla la condición establecida para que se dejen de ejecutar.
+
+Su estructura es la siguiente: 
+
+for ( i = 0; i < 10; i++ ) {}
+" i = 0 " : se estable el valor de la variante "i" como inicio de las operaciones.
+" i < 10 " : se indica el valor que marca la finalización de las operaciones.
+" i++ " : se establece el incremento en +1 necesario para que la operación avance.  
+
+
+Operadores lógicos &&, ||, !
+
+Son elementos que permiten preguntar al operador si las expresiones, entre las cuales se colocan:
+
+&& (AND ó Y): Si, y solo si ambas son verdaderas, el resultado será true.
+|| (OR ó O): Si una de las expresiones es verdadera, devolverá true.
+!  (NOT ó NO) : Permite negar el valor de la expresión que se le pasa.
