@@ -1,0 +1,3 @@
+Arrays:
+O arreglos, son contenedores de datos en los cuales podemos ingresar desde números, strings, booleanos, funciones hasta otros arreglos.
+A su vez, podemos invocar el arreglo, su contenido, sus elementos y/o modificarlos desde la consola.
