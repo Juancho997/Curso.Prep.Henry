@@ -1,0 +1,2 @@
+ `prototype` : Es aquella propiedad integrada a todos los objetos que permite a los objetos de una mismma clase, acceder a las propiedades de ese objeto "anterior" o "primario", es decir, a la clase u objeto de clase.
+ _Constructors_ (de Clases) : Es un método integrado para crear e inicializar un objeto creado con una clase. A través de la keyword ´super´, el constructor puede llamar al constructor de una superclase. Se utiliza para ´extender´ las propiedades de una clase a otra.
