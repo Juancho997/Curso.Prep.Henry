@@ -1,0 +1,1 @@
+Funciones Callback : Son funciones pasadas como argumentos de otras funciones. Permiten la ejecución de múltiples tareas de manera simultáneas y de métodos de array tales como .map, .reduce y .forEach.
