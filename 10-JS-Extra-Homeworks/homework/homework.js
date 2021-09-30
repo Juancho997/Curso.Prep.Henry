@@ -110,7 +110,6 @@ function buscoInterseccion(arreglo1, arreglo2) {
   //Aclaración: los arreglos no necesariamente tienen la misma longitud
   //Escribe tu código aquí  
   arrMatch = [];
-  arrNoMatch =[];
   for (let i = 0; i < arreglo2.length; i++){
     if (arreglo1.includes(arreglo2[i])) arrMatch.push(arreglo2[i]);
     } return arrMatch;
