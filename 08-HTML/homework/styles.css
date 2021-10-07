@@ -1,4 +1,7 @@
-    h1 {color:darkgoldenrod;}
-    img {width:400px;} 
-    thirdDiv {height:600px; width:500px; background:darkslategray; padding:50px; border:1px solid black;}
-    spanId {font-size:18px; margin:50px;}
+    body {background-image: url("https://eskipaper.com/images/nepal-1.jpg");}
+    h1 {color:plum;}
+    img {max-width:400px;}
+    ul {list-style: none; display:inline; text-align:center}
+    .divClass {display:flex; flex-direction:column; align-items:center;}
+    #thirdDiv {height:600px; max-width:500px; background:darkslategray; padding:50px; border:1px solid black; margin: 0 auto;}
+    #spanId {font-size:18px; margin:50px; margin-left:auto; margin-right:auto;}
